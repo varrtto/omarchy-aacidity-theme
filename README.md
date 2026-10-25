@@ -12,11 +12,17 @@ omarchy theme install https://github.com/varrtto/omarchy-aacidity-theme
 
 ## Backgrounds
 
+Two original wallpapers are included. Cycle through them with `omarchy theme bg next`.
+
 ### Sliced Lime
 
 ![Sliced Lime](backgrounds/01-sliced-lime.png)
 
-Wallpaper generated with AI image generation. The [generation prompt](PROMPTS.md) is included.
+### Citrus Bowl
+
+![Citrus Bowl](backgrounds/02-citrus-bowl.png)
+
+Wallpapers were generated with AI image generation. The [generation prompts](PROMPTS.md) are included.
 
 ## Palette
 
