@@ -1,0 +1,32 @@
+# Aacidity — lemon & lime citrus
+mode = "dark"
+
+accent = "#c6e05a"
+selection = "#3a4a22"
+muted = "#6b7a4a"
+
+background = "#141810"
+dark_background = "#0e120c"
+darker_background = "#090b08"
+lighter_background = "#222a18"
+
+foreground = "#e8f0c8"
+dark_foreground = "#8a9a68"
+light_foreground = "#c8d8a0"
+bright_foreground = "#f7ffd4"
+
+red = "#e07060"
+yellow = "#f0d430"
+orange = "#e0a040"
+green = "#8fd04a"
+cyan = "#7ec8a0"
+blue = "#7aa88a"
+magenta = "#c090a0"
+brown = "#6a5a30"
+
+bright_red = "#f09080"
+bright_yellow = "#ffe566"
+bright_green = "#b4f06a"
+bright_cyan = "#a0e0c0"
+bright_blue = "#a0c8b0"
+bright_magenta = "#d8b0c0"
