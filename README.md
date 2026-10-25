@@ -1,6 +1,6 @@
 # Aacidity for Omarchy
 
-A lemon-and-lime citrus theme: deep olive-black surfaces, sharp lemon-lime accents, pale lemonade text, and olive folder icons.
+A lemon-and-lime citrus theme: lemonade surfaces, ripe lime accents, deep olive text, and yellow folder icons.
 
 ![Aacidity theme preview](preview.png)
 
@@ -28,10 +28,10 @@ Wallpapers were generated with AI image generation. The [generation prompts](PRO
 
 | Role | Color |
 | --- | --- |
-| Background | `#141810` |
-| Foreground | `#e8f0c8` |
-| Lemon-lime accent | `#c6e05a` |
-| Selection | `#3a4a22` |
+| Background | `#f7f9e8` |
+| Foreground | `#2a3418` |
+| Lime accent | `#6a9a1a` |
+| Selection | `#e8f0a8` |
 
 Omarchy generates application themes from `colors.toml`.
 
